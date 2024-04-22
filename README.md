@@ -1,25 +1,13 @@
-# Excel-Report-Insights_AtliQ-HardwaresThis a Sales report of AtliQ a global computer hardware and peripherals supplier. 
+# Excel-Report-Insights_AtliQ-Hardwares Problem Statement 😇  
 
+Problem Statement 😇 
+🔹 To create a Finance and Sales report to improve the Gross Margin and overall Net Sales.
 
+Finance Analytics 💰
+ 
+🔹Analyzed financial metrics such as Net Sales, COGS (Cost of Goods Sold), Gross Margin, and GM% (Gross Margin Percentage) on a monthly, quarterly, and annual basis for the fiscal year
 
-The objective of generating these reports is to obtain Insights like :
+Sales Analytics 📊
+ 
+🔹Analyzed sales data to assess Customer performance, Market performance against targets, Top 10 products, Division-level reports, Top and Bottom 5 products by Quantity, as well as New products and the Top 5 Markets.
 
-
-
-1. Finding out the top 10 products of AtilQ hardware company based on their percentage increase in NetSales from 2020 to 2021.
-
-
-
-2. To find out which Division is performing good by presenting the NetSales data for 2020 and 2021 along with their growth percentage.
-
-
-
-3. Identifying the Top 5 products and Bottom 5 products of AtliQ hardware in terms of their Quantity sold.
-
-
-
-4. Getting to know about the new products that AtliQ has begun selling in 2021.
-
-
-
-5. And lastly identifying the Top 5 countries in AtliQ catering market in terms of their NetSales in 2021.
