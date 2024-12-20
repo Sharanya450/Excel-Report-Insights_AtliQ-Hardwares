@@ -1,4 +1,4 @@
-# Excel-Report-Insights_AtliQ-Hardwares 
+# Sales and Finance Analytics Reports
 AtliQ Business Model 💻
 
 🔹 Hardware company that sell peripherals like PC, Mouse, Keyboard , Printers to Clients across the world.
