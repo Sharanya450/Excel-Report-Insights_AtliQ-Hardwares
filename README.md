@@ -3,11 +3,11 @@
 Atliq Hardware specializes in offering a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. The diverse product lineup caters to a broad range of customers, and the company also manufactures its own products.
 
 To reach customers, Atliq Hardware utilizes intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon. These intermediaries play a crucial role in connecting Atliq Hardware's products with end consumers, ensuring the offerings are accessible to the general public.
-
+ ## Problem Statement
+ To create Sales and Finance Analytics Reports, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
 
 ## Technical & Soft Skills:
-
-Proficiency in ETL methodology (Extract, Transform, Load).
+* Proficiency in ETL methodology (Extract, Transform, Load).
 Skills to generate a date table using Power Query.
 Ability to derive fiscal months and quarters.
 Establishing data model relationships with Power Pivot.
