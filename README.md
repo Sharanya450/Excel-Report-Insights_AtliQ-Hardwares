@@ -77,5 +77,6 @@ Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021
 **Market Performance vs. Sales Targets Comparison** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/market%20perf.pdf)  
 Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.  
 
- **Yearly Profit and Loss (P&L) Report** : (
+ **Yearly Profit and Loss (P&L) Report** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/P%20and%20L%20by%20fiscal%20year.pdf)  
+ 
 
