@@ -20,6 +20,10 @@ Soft Skills:
 * Optimization of report generation through meticulous fine-tuning.
 * Developing a systematic approach to devising a report building plan.
 
-## Sales Analysis
+# Sales Analysis
 # Objectives
- * # Top 10 Products with Sales Increase : Identify which products had the biggest increase in sales from 2020 to 2021.
+**Top 10 Products with Sales Increase** : Identify which products had the biggest increase in sales from 2020 to 2021.
+**Division Sales Report**: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
+**Top and Bottom 5 Sold Products**: Identify the top 5 and bottom 5 products sold by quantity.
+**New Products in 2021**: List new products Atliq started selling in 2021.
+**Top 5 Sales Countries in 2021**: Identify the five countries with the highest sales in 2021.
