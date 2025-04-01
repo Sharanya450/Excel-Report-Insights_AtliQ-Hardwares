@@ -44,9 +44,32 @@ Insights:
   *Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
   * Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments.
     
-**New Products in 2021** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/new%20products.pdf) 
-Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.  
-**Top 5 Sales Countries in 2021** :(
-  
+**New Products in 2021** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/new%20products.pdf)   
 
+Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.  
+
+**Top 5 Sales Countries in 2021** :(https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/top%205%20countries.pdf)  
+Insights:
+India led with $161.3 million in sales.  
+
+Strong sales also noted in the USA, South Korea, the UK, and Canada.  
+
+# Financial Analysis
+
+Objectives
+**Customer Net Sales Performance Report**: Overview of revenue generated from customers.  
+
+**Market Performance vs. Sales Targets Comparison**: Analysis of sales efforts against goals and market conditions.  
+
+**Yearly Profit and Loss (P&L) Report**: Financial performance breakdown for each fiscal year.  
+
+**Quarterly Profit and Loss (P&L) Comparison**: Financial performance trends throughout the year.  
+
+**Market-Specific Profit and Loss (P&L) Report**: Performance breakdown for each market.  
+
+**Quarterly Gross Margin Percentage (GM%) by Location**: Profitability view by geographic area.
+  
+# Financial Analysis Reports
+
+**Customer Net Sales Performance Report** : 
 
