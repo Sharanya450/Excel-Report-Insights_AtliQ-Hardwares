@@ -20,3 +20,6 @@ Soft Skills:
 * Optimization of report generation through meticulous fine-tuning.
 * Developing a systematic approach to devising a report building plan.
 
+## Sales Analysis
+# Objectives
+ * # Top 10 Products with Sales Increase : Identify which products had the biggest increase in sales from 2020 to 2021.
