@@ -77,6 +77,28 @@ Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021
 **Market Performance vs. Sales Targets Comparison** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/market%20perf.pdf)  
 Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.  
 
- **Yearly Profit and Loss (P&L) Report** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/P%20and%20L%20by%20fiscal%20year.pdf)  
+ **Yearly Profit and Loss (P&L) Report** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/P%20and%20L%20by%20fiscal%20year.pdf) 
  
+ **Quarterly Profit and Loss (P&L) Comparison**  : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/p%20and%20l%20by%20fiscal%20months.pdf)  
+
+ Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.  
+  **Market-Specific Profit and Loss (P&L) Report** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/report1.pdf)  
+
+   Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.  
+
+   **Quarterly Gross Margin Percentage (GM%) by Location** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/subzone%20gm%20quarter.pdf)  
+   Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.  
+
+   ## Overall Insights
+
+**Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase.
+**Top 10 Products**: Continued strong performance of key products from 2020 to 2021.
+**Market Performance vs. Target**: Insights into market performance relative to sales goals.
+**New Products in 2021**: Successful introduction of new products with strong sales.
+**Top 5 Countries in 2021**: Identification of leading markets with robust sales figures.
+**Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments.
+**Division Level Report**: Impressive growth in the PC division, with substantial revenue increases.
+**Profit and Loss Reports**: Detailed assessment of financial health across various dimensions.
+**Profit and Loss Reports by Markets: Insights into profitability across different regions, informing future strategies.
+Gross Margin % by Quarter: Understanding of regional performance changes, aiding in decision-making.
 
