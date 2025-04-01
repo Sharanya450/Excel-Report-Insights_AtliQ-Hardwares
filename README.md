@@ -6,19 +6,7 @@ To reach customers, Atliq Hardware utilizes intermediaries such as retail giants
  ## Problem Statement
  To create Sales and Finance Analytics Reports, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
 
-## Technical & Soft Skills:
-* Proficiency in ETL methodology (Extract, Transform, Load).
-* Skills to generate a date table using Power Query.
-* Ability to derive fiscal months and quarters.
-* Establishing data model relationships with Power Pivot.
-* Proficiency in incorporating supplementary data into an existing data model.
-* Utilizing DAX to create calculated columns.
-Soft Skills:
 
-* Refined understanding of Finance & Sales Reports
-* Designing user-centric reports with empathy in mind.
-* Optimization of report generation through meticulous fine-tuning.
-* Developing a systematic approach to devising a report building plan.
 
 # Sales Analysis
 # Objectives
@@ -41,7 +29,7 @@ Insights:
 * Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
 * Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
   
-**Top and Bottom 5 Sold Products** : [Top_bottom](https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/top%205%20bottom%205.pdf)
+**Top and Bottom 5 Sold Products** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/top%205%20bottom%205.pdf)
   
   * Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
   * Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments.
