@@ -33,8 +33,9 @@ Soft Skills:
 **Top 5 Sales Countries in 2021**: Identify the five countries with the highest sales in 2021.
 
 # Sales Analysis Reports
-**Top 10 Products with Sales Increase** : [My File](https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/top%2010.pdf)
-**Division Sales Report** : [Div report](https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/div.pdf)
+**Top 10 Products with Sales Increase** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/top%2010.pdf)  
+
+**Division Sales Report** :(https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/div.pdf)
 Insights:
 * PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
 * Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
@@ -56,7 +57,7 @@ Strong sales also noted in the USA, South Korea, the UK, and Canada.
 
 # Financial Analysis
 
-Objectives
+# Objectives
 **Customer Net Sales Performance Report**: Overview of revenue generated from customers.  
 
 **Market Performance vs. Sales Targets Comparison**: Analysis of sales efforts against goals and market conditions.  
@@ -91,14 +92,23 @@ Insights: Some markets exceeded their sales targets, while others fell short, pr
 
    ## Overall Insights
 
-**Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase.
-**Top 10 Products**: Continued strong performance of key products from 2020 to 2021.
-**Market Performance vs. Target**: Insights into market performance relative to sales goals.
-**New Products in 2021**: Successful introduction of new products with strong sales.
-**Top 5 Countries in 2021**: Identification of leading markets with robust sales figures.
-**Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments.
-**Division Level Report**: Impressive growth in the PC division, with substantial revenue increases.
-**Profit and Loss Reports**: Detailed assessment of financial health across various dimensions.
-**Profit and Loss Reports by Markets: Insights into profitability across different regions, informing future strategies.
-Gross Margin % by Quarter: Understanding of regional performance changes, aiding in decision-making.
+**Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase.  
+
+**Top 10 Products**: Continued strong performance of key products from 2020 to 2021.  
+
+**Market Performance vs. Target**: Insights into market performance relative to sales goals.  
+
+**New Products in 2021**: Successful introduction of new products with strong sales.  
+
+**Top 5 Countries in 2021**: Identification of leading markets with robust sales figures.  
+
+**Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments.  
+
+**Division Level Report**: Impressive growth in the PC division, with substantial revenue increases.  
+
+**Profit and Loss Reports**: Detailed assessment of financial health across various dimensions.  
+
+**Profit and Loss Reports by Markets**: Insights into profitability across different regions, informing future strategies.  
+
+**Gross Margin % by Quarter** : Understanding of regional performance changes, aiding in decision-making.
 
