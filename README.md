@@ -26,8 +26,11 @@ Soft Skills:
 
 **Division Sales Report**: Create a report showing total revenue in 2020 and 2021 and how much sales grew.  
 
-**Top and Bottom 5 Sold Products**: Identify the top 5 and bottom 5 products sold by quantity.  
+**Top and Bottom 5 Sold Products**: Identify the top 5 and bottom 5 products sold by quantity. 
 
 **New Products in 2021**: List new products Atliq started selling in 2021.  
 
 **Top 5 Sales Countries in 2021**: Identify the five countries with the highest sales in 2021.
+
+# Sales Analysis Reports
+**Top 10 Products with Sales Increase** 
