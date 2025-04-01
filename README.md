@@ -40,9 +40,13 @@ Insights:
 * Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
 * Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 **Top and Bottom 5 Sold Products** : [Top_bottom](https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/top%205%20bottom%205.pdf)
+  
   *Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
   * Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments.
-**New Products in 2021** : 
+    
+**New Products in 2021** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/new%20products.pdf) 
+Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.  
+**Top 5 Sales Countries in 2021** :(
   
 
 
