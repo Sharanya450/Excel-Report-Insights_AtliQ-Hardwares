@@ -74,5 +74,8 @@ Objectives
 **Customer Net Sales Performance Report** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/customer%20perf.pdf)  
 Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).  
 
-**Market Performance vs. Sales Targets Comparison** : (
+**Market Performance vs. Sales Targets Comparison** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/market%20perf.pdf)  
+Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.  
+
+ **Yearly Profit and Loss (P&L) Report** : (
 
