@@ -34,6 +34,12 @@ Soft Skills:
 
 # Sales Analysis Reports
 **Top 10 Products with Sales Increase** : [My File](https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/top%2010.pdf)
-**Division Sales Report** : 
+**Division Sales Report** : [Div report](https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/div.pdf)
+Insights:
+* PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
+* Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
+* Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
+**Top and Bottom 5 Sold Products** : [Top_bottom]
+  
 
 
