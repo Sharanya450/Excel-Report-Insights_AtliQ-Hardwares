@@ -74,6 +74,7 @@ Insights: Some markets exceeded their sales targets, while others fell short, pr
  **Quarterly Profit and Loss (P&L) Comparison**  : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/p%20and%20l%20by%20fiscal%20months.pdf)  
 
  Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.  
+ 
   **Market-Specific Profit and Loss (P&L) Report** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/report1.pdf)  
 
    Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.  
