@@ -51,6 +51,7 @@ Insights: 16 new products were added in 2021, with "AQ Qwerty" performing except
 
 **Top 5 Sales Countries in 2021** :(https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/top%205%20countries.pdf)  
 Insights:
+
 India led with $161.3 million in sales.  
 
 Strong sales also noted in the USA, South Korea, the UK, and Canada.  
@@ -76,6 +77,7 @@ Strong sales also noted in the USA, South Korea, the UK, and Canada.
 Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).  
 
 **Market Performance vs. Sales Targets Comparison** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/market%20perf.pdf)  
+
 Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.  
 
  **Yearly Profit and Loss (P&L) Report** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/P%20and%20L%20by%20fiscal%20year.pdf) 
@@ -88,6 +90,7 @@ Insights: Some markets exceeded their sales targets, while others fell short, pr
    Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.  
 
    **Quarterly Gross Margin Percentage (GM%) by Location** : (https://github.com/Sharanya450/Excel-Report-Insights_AtliQ-Hardwares/blob/main/subzone%20gm%20quarter.pdf)  
+   
    Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.  
 
    ## Overall Insights
